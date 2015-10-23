@@ -1,0 +1,59 @@
+body {
+	background-color: #F8F8FF;
+	color: black;
+	}
+
+h1 {
+	font-family: times;
+	font-size: 20pt;
+	text-align: center;
+	}
+h2 {
+	font-family: times;
+	font-size: 18pt;
+	text-align: left;
+	margin: 1% 0% 1% 30%;
+	}
+h3 {
+	font-family: times;
+	text-align: left;
+	margin: 1% 0% 1% 30%;
+	}
+p {
+	width: 400pt;
+	font-family: times;
+	font-size: 12px;
+	margin: 1% 0% 1% 30%;
+	}
+.st{
+	font-family: times;
+	font-size: 13px;
+	text-align: center;
+	}
+.cen{
+	text-align: center;
+	}
+img {
+	margin: 0% 7pt 0% 0%;
+	}
+.im	{
+	width: 10px;
+	height: 10px;
+	vertical-align: middle;
+	}
+.list {
+	width: 400pt;
+	font-family: times;
+	font-size: 12px;
+	margin: 1% 0% 1% 29%;
+	}
+.size {
+	font-family: times;
+	font-size: 18px;
+	text-align: center;
+	margin: 1% 0% 2% 0%;
+	}
+.im.2{
+	width: 450pt;
+	margin: 0% 0% 0% 0%;
+	}
