@@ -12,18 +12,18 @@ h2 {
 	font-family: times;
 	font-size: 18pt;
 	text-align: left;
-	margin: 1% 0% 1% 30%;
+	margin: 5pt 0% 5pt 310pt;
 	}
 h3 {
 	font-family: times;
 	text-align: left;
-	margin: 1% 0% 1% 30%;
+	margin: 5pt 0% 5pt 310pt;
 	}
 p {
 	width: 400pt;
 	font-family: times;
 	font-size: 12px;
-	margin: 1% 0% 1% 30%;
+	margin: 5pt 0% 5pt 310pt;
 	}
 .st{
 	font-family: times;
@@ -45,13 +45,13 @@ img {
 	width: 400pt;
 	font-family: times;
 	font-size: 12px;
-	margin: 1% 0% 1% 29%;
+	margin: 5pt 0% 5pt 290pt;
 	}
 .size {
 	font-family: times;
 	font-size: 18px;
 	text-align: center;
-	margin: 1% 0% 2% 0%;
+	margin: 5pt 0% 10pt 0%;
 	}
 .im.2{
 	width: 450pt;
